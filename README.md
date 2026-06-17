@@ -59,13 +59,13 @@ pip install reportlab pillow pyinstaller
 ### Executando o projeto
 
 ```bash
-python calculadora3d_v19.py
+python calculadora3d_v20.py
 ```
 
 ### Gerando o `.exe` (Windows)
 
 ```bash
-pyinstaller --onefile --windowed --icon=assets\icone_dt3dstudio.ico --add-data "assets;assets" --name "DT3DStudio_Calculadora" calculadora3d_v19.py
+pyinstaller --onefile --windowed --icon=assets\icone_dt3dstudio.ico --add-data "assets;assets" --name "DT3DStudio_Calculadora" calculadora3d_v20.py
 ```
 
 O executável será gerado em `dist\DT3DStudio_Calculadora.exe`.
@@ -77,7 +77,7 @@ O executável será gerado em `dist\DT3DStudio_Calculadora.exe`.
 ```
 CALCULADORA BAMBU/
 │
-├── calculadora3d_v19.py     # Código principal
+├── calculadora3d_v20.py     # Código principal
 ├── README.md                # Este arquivo
 │
 └── assets/
