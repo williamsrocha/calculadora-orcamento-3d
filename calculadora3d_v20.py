@@ -559,9 +559,9 @@ def main():
             HRFlowable(width="100%", thickness=0.5, color=colors.HexColor("#cccccc")),
             Spacer(1, 6),
             Paragraph(
-                "WhatsApp: (19) 99611-9937  |  "
+                "WhatsApp: (19) XXXXX-XXXX  |  "
                 "Instagram: @dt3dstudios  |  "
-                "E-mail: adm.dt3dstudio@gmail.com",
+                "E-mail: xxx.xxxxxxxxxx@gmail.com",
                 rodape_s),
         ]
 
