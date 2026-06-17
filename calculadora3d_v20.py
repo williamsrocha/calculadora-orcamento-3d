@@ -1,4 +1,4 @@
-# calculadora3d_v18.py — DT 3D STUDIO
+# calculadora3d_v20.py — DT 3D STUDIO
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer,
